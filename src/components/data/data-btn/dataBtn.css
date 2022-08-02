@@ -1,0 +1,5 @@
+.data-btn1:hover{
+    background: rgba(22, 93, 245, 0.18);
+    border: 0.5px solid rgba(22, 93, 245, 0.1);
+    color: red;
+}

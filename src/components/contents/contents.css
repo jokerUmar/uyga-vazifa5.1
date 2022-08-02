@@ -1,0 +1,23 @@
+.content-btn{
+    padding: 10px 25px 10px  25px;
+}
+
+.content{
+    text-align: center;
+    background-color: rgba(22, 93, 245, 0.1);
+    padding: 70px 0 70px 0;
+}
+
+.content .container h1{
+    font-size: 50px;
+    width: 761px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.content .container p{
+    width: 717px;
+    margin: 0 auto; 
+    line-height: 25.5px;
+    margin-bottom: 30px;
+}

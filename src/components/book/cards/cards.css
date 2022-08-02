@@ -1,0 +1,15 @@
+.book-card h1{
+    font-size: 24.88px;
+    margin-bottom: 10px;
+}
+
+.book-card{
+    width: 538.14px;
+    margin-bottom:34px ;
+}
+
+.book-card p{
+    font-size: 18px;
+    width: 500px;
+    color: rgba(0, 0, 0, 0.4);
+}

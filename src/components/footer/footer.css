@@ -1,0 +1,24 @@
+.footer{
+    background-color: rgba(22, 93, 245, 1);
+    padding-top: 23px;
+    padding-bottom: 23px;
+}
+
+.footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: w;
+}
+
+.footer .container ul{
+    display: flex;
+}
+
+.footer .container ul li{
+    margin-right: 32px;
+}
+
+.footer .container ul li a{
+    color: white;
+}
